@@ -1,4 +1,4 @@
-# phoebe-assistant
+# Phoebe-Assistant
 * A repository designated to the implementation of personal assistant commands Phoebe Buffay would have used. 
 ## Group Members: Joseph Hangarter, Aileen Murphy, Austin Wood, Jonny Graybill
 
